@@ -51,6 +51,8 @@
 ![GitHub Desktop](https://img.shields.io/badge/GitHub_Desktop-24292F?style=flat-square&logo=GitHub&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=Azure&logoColor=white)
 ![FileZilla](https://img.shields.io/badge/FileZilla-FF0000?style=flat-square&logo=FileZilla&logoColor=white)
+![XML](https://img.shields.io/badge/XML-FF6600?style=flat&logo=xml&logoColor=white)  
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 20px>  </picture> IDEs
